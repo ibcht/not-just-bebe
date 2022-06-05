@@ -8,7 +8,7 @@
 // @description put a real name, not just bébé
 // @downloadURL https://github.com/ibcht/not-just-bebe/raw/main/main.js
 // @updateURL   https://github.com/ibcht/not-just-bebe/raw/main/main.js
-// grant        none
+// @grant        none
 // ==/UserScript==
 
 var elts = ['p','h1','h2','h3','h4','a'];
