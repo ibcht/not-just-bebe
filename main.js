@@ -11,11 +11,13 @@
 // @grant        none
 // ==/UserScript==
 
-var elts = ['p','h1','h2','h3','h4','a'];
+const name = 'Zorro';
+
+const elts = ['p','h1','h2','h3','h4','a'];
 
 elts.forEach(elt => {
   document.querySelectorAll(elt).forEach(e => {
     e.innerHTML = e.innerHTML
-        .replaceAll(/(un |votre |le |)bébé/ig,'Name');
+        .replaceAll(/(un |votre |le |)bébé/ig,name);
   })
 })
