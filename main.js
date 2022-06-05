@@ -3,7 +3,7 @@
 // @namespace   https://github.com/ibcht/not-just-bebe
 // @match       https://*/*
 // @grant       none
-// @version     1.2
+// @version     1.1
 // @author      ibcht
 // @description put a real name, not just bébé
 // @downloadURL https://github.com/ibcht/not-just-bebe/raw/main/main.js
