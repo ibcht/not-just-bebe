@@ -6,8 +6,8 @@
 // @version     1.0
 // @author      ibcht
 // @description put a real name, not just bébé
-// @downloadURL  
-// @updateURL    
+// @downloadURL  https://github.com/ibcht/not-just-bebe/raw/main/main.js
+// @updateURL    https://github.com/ibcht/not-just-bebe/raw/main/main.js
 // ==/UserScript==
 
 var elts = ['p','h1','h2','h3','h4','a'];
